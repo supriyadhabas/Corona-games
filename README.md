@@ -1,1 +1,1 @@
-# Corona-games
+# corona-games-frontend
